@@ -10,7 +10,7 @@ namespace VentaDeBarrios
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Programa para identificar Barrio");
+            Console.WriteLine("Programa para identificar Barrio Espinal");
             Console.WriteLine("Hicimos cambios desde el repositorio");
 
             //Aqui inicializamos el nombre de los barrios

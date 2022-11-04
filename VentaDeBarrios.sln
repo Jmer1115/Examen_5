@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VentaDeBarrios", "VentaDeBarrios.csproj", "{3EF09603-A894-473C-B09A-A20BEF566FA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VentasDeBarrio_PruebaUnitaria", "..\VentasDeBarrio_PruebaUnitaria\VentasDeBarrio_PruebaUnitaria.csproj", "{71187750-326D-44BC-A899-8A4DC988F72F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EF09603-A894-473C-B09A-A20BEF566FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF09603-A894-473C-B09A-A20BEF566FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF09603-A894-473C-B09A-A20BEF566FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF09603-A894-473C-B09A-A20BEF566FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71187750-326D-44BC-A899-8A4DC988F72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71187750-326D-44BC-A899-8A4DC988F72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71187750-326D-44BC-A899-8A4DC988F72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71187750-326D-44BC-A899-8A4DC988F72F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69BE0396-3025-4FEB-8871-F4BC1A014E3F}
+	EndGlobalSection
+EndGlobal

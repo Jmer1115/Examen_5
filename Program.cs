@@ -10,7 +10,7 @@ namespace VentaDeBarrios
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Programa para identificar Barrio con mejor tendero");
+            Console.WriteLine("Programa para identificar Barrio");
 
             //Aqui inicializamos el nombre de los barrios
             string[] nombresBarrios = new string[5];
